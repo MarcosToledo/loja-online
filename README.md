@@ -1,6 +1,6 @@
-# beer-factory
+# LOJA ONLINE
 
-Projeto criado para auxiliar no aprendizado de HTML CSS e JAVASCRIPT
+API criada para auxiliar no aprendizado de HTML CSS e JAVASCRIPT
 
 url: localhost:8080
 
